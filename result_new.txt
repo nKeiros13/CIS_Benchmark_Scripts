@@ -1,0 +1,1994 @@
+🔹 Executing file: 1.1.1.1.sh
+
+
+ -- INFO --
+ - module: "cramfs" exists in:
+ - "/lib/modules/5.15.0-78-generic/kernel/fs"
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - module: "cramfs" is not deny listed
+ - module: "cramfs" is loadable: "insmod /lib/modules/5.15.0-78-generic/kernel/fs/cramfs/cramfs.ko "
+
+
+- Correctly set:
+
+ - module: "cramfs" is not loaded
+
+✅ 1.1.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.1.2.sh
+
+
+ -- INFO --
+ - module: "freevxfs" exists in:
+ - "/lib/modules/5.15.0-78-generic/kernel/fs"
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - module: "freevxfs" is not deny listed
+ - module: "freevxfs" is loadable: "insmod /lib/modules/5.15.0-78-generic/kernel/fs/freevxfs/freevxfs.ko "
+
+
+- Correctly set:
+
+ - module: "freevxfs" is not loaded
+
+✅ 1.1.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.1.3.sh
+
+
+ -- INFO --
+ - module: "hfs" exists in:
+ - "/lib/modules/5.15.0-78-generic/kernel/fs"
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - module: "hfs" is not deny listed
+ - module: "hfs" is loadable: "insmod /lib/modules/5.15.0-78-generic/kernel/fs/hfs/hfs.ko "
+
+
+- Correctly set:
+
+ - module: "hfs" is not loaded
+
+✅ 1.1.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.1.4.sh
+
+
+ -- INFO --
+ - module: "hfsplus" exists in:
+ - "/lib/modules/5.15.0-78-generic/kernel/fs"
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - module: "hfsplus" is not deny listed
+ - module: "hfsplus" is loadable: "insmod /lib/modules/5.15.0-78-generic/kernel/fs/hfsplus/hfsplus.ko "
+
+
+- Correctly set:
+
+ - module: "hfsplus" is not loaded
+
+✅ 1.1.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.1.5.sh
+
+
+ -- INFO --
+ - module: "jffs2" exists in:
+ - "/lib/modules/5.15.0-78-generic/kernel/fs"
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - module: "jffs2" is not deny listed
+ - module: "jffs2" is loadable: "insmod /lib/modules/5.15.0-78-generic/kernel/fs/jffs2/jffs2.ko "
+
+
+- Correctly set:
+
+ - module: "jffs2" is not loaded
+
+✅ 1.1.1.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.1.8.sh
+
+
+ -- INFO --
+ - module: "usb-storage" exists in:
+ - "/lib/modules/5.15.0-78-generic/kernel/drivers"
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - module: "usb-storage" is not deny listed
+ - module: "usb-storage" is loadable: "insmod /lib/modules/5.15.0-78-generic/kernel/drivers/usb/storage/usb-storage.ko "
+
+
+- Correctly set:
+
+ - module: "usb-storage" is not loaded
+
+✅ 1.1.1.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.1.1.sh
+✅ 1.1.2.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.1.2.sh
+✅ 1.1.2.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.1.3.sh
+✅ 1.1.2.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.1.4.sh
+✅ 1.1.2.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.2.1.sh
+✅ 1.1.2.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.2.2.sh
+✅ 1.1.2.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.2.3.sh
+✅ 1.1.2.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.2.4.sh
+✅ 1.1.2.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.3.2.sh
+✅ 1.1.2.3.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.3.3.sh
+✅ 1.1.2.3.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.4.2.sh
+✅ 1.1.2.4.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.4.3.sh
+✅ 1.1.2.4.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.5.2.sh
+✅ 1.1.2.5.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.5.3.sh
+✅ 1.1.2.5.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.5.4.sh
+✅ 1.1.2.5.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.6.2.sh
+✅ 1.1.2.6.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.6.3.sh
+✅ 1.1.2.6.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.6.4.sh
+✅ 1.1.2.6.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.7.2.sh
+✅ 1.1.2.7.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.7.3.sh
+✅ 1.1.2.7.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.1.2.7.4.sh
+✅ 1.1.2.7.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.3.1.1.sh
+✅ 1.3.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.3.1.2.sh
+✅ 1.3.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.3.1.3.sh
+✅ 1.3.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.4.1.sh
+✅ 1.4.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.4.2.sh
+✅ 1.4.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.5.1.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "kernel.randomize_va_space" is not set in an included file
+ ** Note: "kernel.randomize_va_space" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "kernel.randomize_va_space" is correctly set to "2" in the running configuration
+
+✅ 1.5.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.5.2.sh
+
+- Audit Result:
+ ** PASS **
+
+ - "kernel.yama.ptrace_scope" is correctly set to "1" in the running configuration
+ - "kernel.yama.ptrace_scope" is correctly set to "1" in "/etc/sysctl.d/10-ptrace.conf"
+
+
+✅ 1.5.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.5.3.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "fs.suid_dumpable" is incorrectly set to "2" in the running configuration and should have a value of: "0"
+ - "fs.suid_dumpable" is not set in an included file
+ ** Note: "fs.suid_dumpable" May be set in a file that's ignored by load procedure **
+
+
+❌ 1.5.3.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 1.5.4.sh
+✅ 1.5.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.5.5.sh
+✅ 1.5.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.6.1.sh
+✅ 1.6.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.6.2.sh
+✅ 1.6.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.6.3.sh
+✅ 1.6.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.6.4.sh
+✅ 1.6.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.6.5.sh
+✅ 1.6.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.6.6.sh
+✅ 1.6.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.10.sh
+✅ 1.7.10.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.2.sh
+
+
+ - GNOME Desktop Manager isn't installed
+ - Recommendation is Not Applicable
+- Audit result:
+ *** PASS ***
+
+
+- Audit Result:
+ ** PASS **
+
+
+✅ 1.7.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.3.sh
+
+
+ - GNOME Desktop Manager isn't installed
+ - Recommendation is Not Applicable
+- Audit result:
+ *** PASS ***
+
+✅ 1.7.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.4.sh
+✅ 1.7.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.5.sh
+
+- Audit Result:
+ ** PASS **
+
+ - GNOME Desktop Manager package is not installed on the system
+ - Recommendation is not applicable
+
+✅ 1.7.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.6.sh
+
+- Audit Result:
+ ** PASS **
+
+ - GNOME Desktop Manager package is not installed on the system
+ - Recommendation is not applicable
+
+✅ 1.7.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.7.sh
+
+- Audit Result:
+ ** PASS **
+
+ - GNOME Desktop Manager package is not installed on the system
+ - Recommendation is not applicable
+
+✅ 1.7.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.8.sh
+
+
+
+- Audit Result:
+ ** PASS **
+
+ - GNOME Desktop Manager package is not installed on the system
+ - Recommendation is not applicable
+
+✅ 1.7.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 1.7.9.sh
+
+- Audit Result:
+ ** PASS **
+
+ - [org/gnome/desktop/media-handling] setting not found in /etc/dconf/db/*
+
+✅ 1.7.9.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.1.sh
+✅ 2.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.10.sh
+✅ 2.1.10.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.11.sh
+✅ 2.1.11.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.12.sh
+✅ 2.1.12.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.13.sh
+✅ 2.1.13.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.14.sh
+✅ 2.1.14.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.15.sh
+✅ 2.1.15.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.16.sh
+✅ 2.1.16.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.17.sh
+✅ 2.1.17.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.18.sh
+✅ 2.1.18.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.19.sh
+✅ 2.1.19.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.2.sh
+✅ 2.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.21.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - Port "25" is listening on a non-loopback network interface
+
+
+- Correctly set:
+
+ - Port "465" is not listening on a non-loopback network interface
+ - Port "587" is not listening on a non-loopback network interface
+
+✅ 2.1.21.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.3.sh
+✅ 2.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.4.sh
+✅ 2.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.5.sh
+✅ 2.1.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.6.sh
+✅ 2.1.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.7.sh
+✅ 2.1.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.8.sh
+✅ 2.1.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.1.9.sh
+✅ 2.1.9.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.2.1.sh
+✅ 2.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.2.2.sh
+✅ 2.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.2.3.sh
+✅ 2.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.2.4.sh
+✅ 2.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.2.5.sh
+✅ 2.2.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.2.6.sh
+✅ 2.2.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.3.1.1.sh
+
+- Audit Result:
+ ** FAIL **
+ - * Reasons for audit failure * :
+ - No time sync daemon is in use on the system
+ - Daemon: "systemd-timesyncd.service" is not enabled and not active on the system
+ - Daemon: "chrony.service" is not enabled and not active on the system
+
+✅ 2.3.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.3.2.1.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "NTP" is not set in an included file
+ ** Note: "NTP" May be set in a file that's ignored by load procedure **
+
+ - "FallbackNTP" is not set in an included file
+ ** Note: "FallbackNTP" May be set in a file that's ignored by load procedure **
+
+❌ 2.3.2.1.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 2.3.3.2.sh
+✅ 2.3.3.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.3.3.3.sh
+✅ 2.3.3.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.1.sh
+✅ 2.4.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.2.sh
+✅ 2.4.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.3.sh
+✅ 2.4.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.4.sh
+✅ 2.4.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.5.sh
+✅ 2.4.1.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.6.sh
+✅ 2.4.1.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.7.sh
+✅ 2.4.1.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.1.8.sh
+✅ 2.4.1.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 2.4.2.1.sh
+✅ 2.4.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.1.2.sh
+
+- Audit Result:
+ ** PASS **
+
+ - System has no wireless NICs installed
+✅ 3.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.1.3.sh
+✅ 3.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.1.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.ip_forward" is not set in an included file
+ ** Note: "net.ipv4.ip_forward" May be set in a file that's ignored by load procedure **
+
+ - "net.ipv6.conf.all.forwarding" is not set in an included file
+ ** Note: "net.ipv6.conf.all.forwarding" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "net.ipv4.ip_forward" is correctly set to "0" in the running configuration
+ - "net.ipv6.conf.all.forwarding" is correctly set to "0" in the running configuration
+
+✅ 3.3.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.10.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.tcp_syncookies" is not set in an included file
+ ** Note: "net.ipv4.tcp_syncookies" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "net.ipv4.tcp_syncookies" is correctly set to "1" in the running configuration
+
+✅ 3.3.10.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.11.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv6.conf.all.accept_ra" is incorrectly set to "1" in the running configuration and should have a value of: "0"
+ - "net.ipv6.conf.all.accept_ra" is not set in an included file
+ ** Note: "net.ipv6.conf.all.accept_ra" May be set in a file that's ignored by load procedure **
+
+ - "net.ipv6.conf.default.accept_ra" is incorrectly set to "1" in the running configuration and should have a value of: "0"
+ - "net.ipv6.conf.default.accept_ra" is not set in an included file
+ ** Note: "net.ipv6.conf.default.accept_ra" May be set in a file that's ignored by load procedure **
+
+
+❌ 3.3.11.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 3.3.2.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.conf.default.send_redirects" is incorrectly set to "1" in the running configuration and should have a value of: "0"
+ - "net.ipv4.conf.default.send_redirects" is not set in an included file
+ ** Note: "net.ipv4.conf.default.send_redirects" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "net.ipv4.conf.all.send_redirects" is correctly set to "0" in the running configuration
+ - "net.ipv4.conf.all.send_redirects" is correctly set to "0" in "/etc/sysctl.d/liquidfiles.conf"
+
+
+✅ 3.3.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.3.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.icmp_ignore_bogus_error_responses" is not set in an included file
+ ** Note: "net.ipv4.icmp_ignore_bogus_error_responses" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "net.ipv4.icmp_ignore_bogus_error_responses" is correctly set to "1" in the running configuration
+
+✅ 3.3.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.4.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.icmp_echo_ignore_broadcasts" is not set in an included file
+ ** Note: "net.ipv4.icmp_echo_ignore_broadcasts" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "net.ipv4.icmp_echo_ignore_broadcasts" is correctly set to "1" in the running configuration
+
+✅ 3.3.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.5.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.conf.default.accept_redirects" is incorrectly set to "1" in the running configuration and should have a value of: "0"
+ - "net.ipv4.conf.default.accept_redirects" is not set in an included file
+ ** Note: "net.ipv4.conf.default.accept_redirects" May be set in a file that's ignored by load procedure **
+
+ - "net.ipv6.conf.default.accept_redirects" is incorrectly set to "1" in the running configuration and should have a value of: "0"
+ - "net.ipv6.conf.default.accept_redirects" is not set in an included file
+ ** Note: "net.ipv6.conf.default.accept_redirects" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "net.ipv4.conf.all.accept_redirects" is correctly set to "0" in the running configuration
+ - "net.ipv4.conf.all.accept_redirects" is correctly set to "0" in "/etc/sysctl.d/liquidfiles.conf"
+
+ - "net.ipv6.conf.all.accept_redirects" is correctly set to "0" in the running configuration
+ - "net.ipv6.conf.all.accept_redirects" is correctly set to "0" in "/etc/sysctl.d/liquidfiles.conf"
+
+
+✅ 3.3.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.6.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.conf.all.secure_redirects" is incorrectly set to "1" in the running configuration and should have a value of: "0"
+ - "net.ipv4.conf.all.secure_redirects" is not set in an included file
+ ** Note: "net.ipv4.conf.all.secure_redirects" May be set in a file that's ignored by load procedure **
+
+ - "net.ipv4.conf.default.secure_redirects" is incorrectly set to "1" in the running configuration and should have a value of: "0"
+ - "net.ipv4.conf.default.secure_redirects" is not set in an included file
+ ** Note: "net.ipv4.conf.default.secure_redirects" May be set in a file that's ignored by load procedure **
+
+
+❌ 3.3.6.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 3.3.7.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.conf.all.rp_filter" is incorrectly set to "2" in the running configuration and should have a value of: "1"
+ - "net.ipv4.conf.all.rp_filter" is incorrectly set to "2" in "/etc/sysctl.d/10-network-security.conf" and should have a value of: "1"
+
+ - "net.ipv4.conf.default.rp_filter" is incorrectly set to "2" in the running configuration and should have a value of: "1"
+ - "net.ipv4.conf.default.rp_filter" is incorrectly set to "2" in "/usr/lib/sysctl.d/50-default.conf" and should have a value of: "1"
+
+
+❌ 3.3.7.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 3.3.8.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.conf.all.accept_source_route" is not set in an included file
+ ** Note: "net.ipv4.conf.all.accept_source_route" May be set in a file that's ignored by load procedure **
+
+ - "net.ipv6.conf.all.accept_source_route" is not set in an included file
+ ** Note: "net.ipv6.conf.all.accept_source_route" May be set in a file that's ignored by load procedure **
+
+ - "net.ipv6.conf.default.accept_source_route" is not set in an included file
+ ** Note: "net.ipv6.conf.default.accept_source_route" May be set in a file that's ignored by load procedure **
+
+
+
+- Correctly set:
+
+ - "net.ipv4.conf.all.accept_source_route" is correctly set to "0" in the running configuration
+ - "net.ipv4.conf.default.accept_source_route" is correctly set to "0" in the running configuration
+ - "net.ipv4.conf.default.accept_source_route" is correctly set to "0" in "/usr/lib/sysctl.d/50-default.conf"
+
+ - "net.ipv6.conf.all.accept_source_route" is correctly set to "0" in the running configuration
+ - "net.ipv6.conf.default.accept_source_route" is correctly set to "0" in the running configuration
+
+✅ 3.3.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 3.3.9.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "net.ipv4.conf.all.log_martians" is incorrectly set to "0" in the running configuration and should have a value of: "1"
+ - "net.ipv4.conf.all.log_martians" is not set in an included file
+ ** Note: "net.ipv4.conf.all.log_martians" May be set in a file that's ignored by load procedure **
+
+ - "net.ipv4.conf.default.log_martians" is incorrectly set to "0" in the running configuration and should have a value of: "1"
+ - "net.ipv4.conf.default.log_martians" is not set in an included file
+ ** Note: "net.ipv4.conf.default.log_martians" May be set in a file that's ignored by load procedure **
+
+
+❌ 3.3.9.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 4.1.1.sh
+✅ 4.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.1.2.sh
+✅ 4.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.1.3.sh
+✅ 4.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.1.4.sh
+✅ 4.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.1.5.sh
+✅ 4.1.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.1.6.sh
+
+- Audit Result:
+ ** FAIL **
+- The following port(s) don't have a rule in UFW: 
+123
+222
+25
+443
+80
+- End List
+✅ 4.1.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.1.7.sh
+✅ 4.1.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.1.sh
+✅ 4.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.10.sh
+✅ 4.2.10.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.2.sh
+✅ 4.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.3.sh
+✅ 4.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.4.sh
+✅ 4.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.5.sh
+✅ 4.2.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.6.sh
+✅ 4.2.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.7.sh
+✅ 4.2.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.8.sh
+✅ 4.2.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.2.9.sh
+✅ 4.2.9.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.1.1.sh
+✅ 4.3.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.1.2.sh
+✅ 4.3.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.1.3.sh
+✅ 4.3.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.2.1.sh
+✅ 4.3.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.2.2.sh
+✅ 4.3.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.2.3.sh
+✅ 4.3.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.2.4.sh
+✅ 4.3.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.3.1.sh
+ - IPv6 is enabled on the system
+✅ 4.3.3.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.3.2.sh
+ - IPv6 is enabled on the system
+✅ 4.3.3.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.3.3.sh
+ - IPv6 is enabled on the system
+✅ 4.3.3.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 4.3.3.4.sh
+✅ 4.3.3.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.1.sh
+
+- Audit Result:
+ ** FAIL **
+ - * Reasons for audit failure * :
+
+ - File: "/etc/ssh/sshd_config":
+ - Is mode: "0644" should be: "600" or more restrictive
+ - File: "/etc/ssh/sshd_config.d/60-liquidfiles.conf":
+ - Is mode: "0644" should be: "600" or more restrictive
+
+❌ 5.1.1.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 5.1.10.sh
+✅ 5.1.10.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.11.sh
+✅ 5.1.11.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.12.sh
+✅ 5.1.12.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.13.sh
+✅ 5.1.13.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.14.sh
+✅ 5.1.14.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.15.sh
+✅ 5.1.15.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.16.sh
+✅ 5.1.16.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.17.sh
+✅ 5.1.17.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.18.sh
+✅ 5.1.18.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.19.sh
+✅ 5.1.19.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.2.sh
+
+- Audit Result:
+ ** PASS **
+ - * Correctly configured * :
+ - File: "/etc/ssh/ssh_host_ed25519_key"
+ - Correct: mode: "0600", owner: "root", and group owner: "root" configured
+ - File: "/etc/ssh/ssh_host_ecdsa_key"
+ - Correct: mode: "0600", owner: "root", and group owner: "root" configured
+ - File: "/etc/ssh/ssh_host_dsa_key"
+ - Correct: mode: "0600", owner: "root", and group owner: "root" configured
+ - File: "/etc/ssh/ssh_host_rsa_key"
+ - Correct: mode: "0600", owner: "root", and group owner: "root" configured
+✅ 5.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.20.sh
+✅ 5.1.20.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.21.sh
+✅ 5.1.21.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.22.sh
+✅ 5.1.22.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.3.sh
+
+- Audit Result:
+ ** PASS **
+ - * Correctly configured * :
+ - File: "/etc/ssh/ssh_host_ed25519_key.pub"
+ - Correct: mode: "0644", owner: "root", and group owner: "root" configured
+ - File: "/etc/ssh/ssh_host_rsa_key.pub"
+ - Correct: mode: "0644", owner: "root", and group owner: "root" configured
+ - File: "/etc/ssh/ssh_host_ecdsa_key.pub"
+ - Correct: mode: "0644", owner: "root", and group owner: "root" configured
+ - File: "/etc/ssh/ssh_host_dsa_key.pub"
+ - Correct: mode: "0644", owner: "root", and group owner: "root" configured
+✅ 5.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.4.sh
+✅ 5.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.5.sh
+✅ 5.1.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.6.sh
+✅ 5.1.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.1.7.sh
+✅ 5.1.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.2.1.sh
+✅ 5.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.2.2.sh
+✅ 5.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.2.3.sh
+✅ 5.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.2.5.sh
+✅ 5.2.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.2.6.sh
+✅ 5.2.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.2.7.sh
+✅ 5.2.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.1.1.sh
+✅ 5.3.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.1.2.sh
+✅ 5.3.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.1.3.sh
+✅ 5.3.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.2.1.sh
+✅ 5.3.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.2.2.sh
+✅ 5.3.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.2.3.sh
+✅ 5.3.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.2.4.sh
+✅ 5.3.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.1.1.sh
+✅ 5.3.3.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.1.2.sh
+✅ 5.3.3.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.1.sh
+✅ 5.3.3.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.2.sh
+✅ 5.3.3.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.3.sh
+✅ 5.3.3.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.4.sh
+✅ 5.3.3.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.5.sh
+✅ 5.3.3.2.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.6.sh
+✅ 5.3.3.2.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.7.sh
+✅ 5.3.3.2.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.2.8.sh
+✅ 5.3.3.2.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.3.1.sh
+✅ 5.3.3.3.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.3.2.sh
+✅ 5.3.3.3.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.3.3.sh
+✅ 5.3.3.3.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.4.1.sh
+✅ 5.3.3.4.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.4.2.sh
+✅ 5.3.3.4.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.4.3.sh
+✅ 5.3.3.4.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.3.3.4.4.sh
+✅ 5.3.3.4.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.1.1.sh
+✅ 5.4.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.1.3.sh
+✅ 5.4.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.1.4.sh
+✅ 5.4.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.1.5.sh
+✅ 5.4.1.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.1.6.sh
+✅ 5.4.1.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.1.sh
+✅ 5.4.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.2.sh
+✅ 5.4.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.3.sh
+✅ 5.4.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.4.sh
+✅ 5.4.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.5.sh
+
+- Audit Result:
+ ** FAIL **
+ - * Reasons for audit failure * :
+
+ - "/snap/bin" is not a directory
+
+✅ 5.4.2.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.6.sh
+✅ 5.4.2.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.7.sh
+Service account: "postgres" has a valid shell: /bin/bash
+Service account: "_sfta" has a valid shell: /bin/bash
+✅ 5.4.2.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.2.8.sh
+✅ 5.4.2.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 5.4.3.2.sh
+
+FAILED
+
+TMOUT is not configured
+
+❌ 5.4.3.2.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 5.4.3.3.sh
+
+- Audit Result:
+ ** FAIL **
+ - * Reasons for audit failure * :
+
+ - umask is incorrectly set in "/etc/login.defs"
+❌ 5.4.3.3.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 6.1.1.sh
+✅ 6.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.1.2.sh
+✅ 6.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.2.1.1.1.sh
+✅ 6.2.1.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.2.1.1.4.sh
+
+- Audit Result:
+ ** PASS **
+
+ - "ForwardToSyslog" is not set in an included file
+ ** Note: "ForwardToSyslog" May be set in a file that's ignored by load procedure **
+
+
+✅ 6.2.1.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.2.1.1.5.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "Storage" is not set in an included file
+ ** Note: "Storage" May be set in a file that's ignored by load procedure **
+
+❌ 6.2.1.1.5.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 6.2.1.1.6.sh
+
+- Audit Result:
+ ** FAIL **
+ - Reason(s) for audit failure:
+
+ - "Compress" is not set in an included file
+ ** Note: "Compress" May be set in a file that's ignored by load procedure **
+
+❌ 6.2.1.1.6.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 6.2.1.2.1.sh
+✅ 6.2.1.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.2.1.2.2.sh
+✅ 6.2.1.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.2.1.2.3.sh
+✅ 6.2.1.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.2.1.2.4.sh
+✅ 6.2.1.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 6.2.2.1.sh
+
+- Audit Results:
+ ** Fail **
+
+ - File: "/var/log/alternatives.log.1" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/dpkg.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/puma.err.2.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/installer/media-info" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/installer/casper-md5check.json" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/installer/block/discover.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/installer/block/probe-data.json" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/installer/curtin-install.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/installer/device-map.json" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/installer/cloud-init-output.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/application.log-20250901.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/application.log-20250601.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/dpkg.log.1" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/application.log-20250201.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/puma.log.2.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/puma.log.4.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/boot.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/boot.log.1" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/unattended-upgrades/unattended-upgrades-shutdown.log.1.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/unattended-upgrades/unattended-upgrades-shutdown.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/application.log-20250701.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/sysupdate.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/weekly.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/rails.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/postgresql/postgresql-14-main.log.1" is:
+ - Owned by: "postgres" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/postgresql/postgresql-14-main.log.2.gz" is:
+ - Owned by: "postgres" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/postgresql/postgresql-14-main.log.3.gz" is:
+ - Owned by: "postgres" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/postgresql/postgresql-14-main.log.4.gz" is:
+ - Owned by: "postgres" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/postgresql/postgresql-14-main.log" is:
+ - Owned by: "postgres" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/alternatives.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/application.log-20250301.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/fontconfig.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/puma.log.1" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/daily.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/boot.log.2" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/application.log-20250501.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/application.log-20250101.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/puma.log.3.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/puma.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/nginx/error.log.10.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.4.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.26.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.20.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.18.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.24.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.33.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.41.gz" is:
+ - Owned by: "nginx" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.29.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.2.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.7.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.16.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.17.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.6.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.2.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.13.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.18.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.3.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.21.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.22.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.19.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.27.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.12.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.37.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.8.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.13.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.32.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.17.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.15.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.23.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.9.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.30.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.1" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.14.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.36.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.28.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.11.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.3.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.8.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.7.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.10.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.20.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.40.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.39.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.6.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.14.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.5.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.11.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.31.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.16.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.38.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.12.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.1" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.9.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.25.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.5.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.21.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.19.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.15.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/error.log.22.gz" is:
+ - Owned by: "nginx" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.4.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.35.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/nginx/access.log.34.gz" is:
+ - Owned by: "www-data" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/application.log-20241001.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/puma.err.3.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/bootstrap.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/proftpd/ftpquota.tallytab" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Group owned by: "nogroup" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/rails.log.3.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/rails.log.2.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/backup_last.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/puma.err" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/rails.log.1" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/application.log-20241101.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/application.log.1.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/application.log-20250401.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/clamav/clamav.log.4.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/clamav.log.5.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/freshclam.log.3.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/clamav.log" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/freshclam.log.4.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/clamav.log.2.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/clamav.log.3.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/freshclam.log.2.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/freshclam.log.1" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/freshclam.log.5.gz" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/clamav/freshclam.log" is:
+ - Owned by: "clamav" and should be owned by "(root or syslog)"
+
+ - File: "/var/log/application.log-20241201.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/boot_system.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/puma.err.4.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/puma.err.1" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/apt/history.log.1.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/apt/history.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/apt/eipp.log.xz" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/application.log-20250801.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/faillog" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+ - File: "/var/log/rails.log.4.gz" is:
+ - Mode: "0644" should be "640" or more restrictive
+ - Owned by: "_sfta" and should be owned by "(root or syslog)"
+ - Group owned by: "_sfta" and should be group owned by "(root or adm)"
+
+ - File: "/var/log/install.log" is:
+ - Mode: "0644" should be "640" or more restrictive
+
+✅ 6.2.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.1.sh
+✅ 7.1.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.10.sh
+✅ 7.1.10.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.11.sh
+
+- Audit Result:
+ ** FAIL **
+ - * Reasons for audit failure * :
+
+ - There are "232" World writable files on the system.
+ - The following is a list of World writable files:
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.14.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.9.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.7.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.19.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.3.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.9.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.4.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.5.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.1.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.13.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.14.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.15.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.6.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.4.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.9.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.7.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/run_all.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.12.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.3.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.3.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.12.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.21.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.3.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.3.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.3.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.10.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.3.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.17.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.3.3.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.11.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.9.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.21.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.6.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.3.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.1.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.3.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.12.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.11.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.6.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.1.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.7.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.4.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.2.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.19.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.6.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.13.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.3.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.2.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.11.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.5.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.9.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.10.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.6.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.3.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.5.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.3.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.5.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.3.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.5.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.13.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.10.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.5.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.2.1.1.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.6.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.18.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.2.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.16.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.4.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.10.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.3.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.4.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.18.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.2.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.1.9.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.10.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.22.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.6.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.6.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.5.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.3.3.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.5.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.16.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.4.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.1.17.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.3.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.1.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.6.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.11.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.1.3.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/3.3.10.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.4.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.2.6.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.3.3.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.1.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.2.5.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.1.8.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/4.2.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/6.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.4.1.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/7.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.7.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.3.4.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.3.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/2.4.2.1.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.15.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.2.2.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/5.1.20.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.7.10.sh
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0/1.1.2.4.3.sh
+ - end of list
+
+ - There are "3" World writable directories without the sticky bit on the system.
+ - The following is a list of World writable directories without the sticky bit:
+/root/CIS_Ubuntu_Linux_22.04_LTS_Benchmark_v2.0.0
+/data/tmp
+/data/tmp/tempfiles
+ - end of list
+
+❌ 7.1.11.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 7.1.12.sh
+
+- Audit Result:
+ ** PASS **
+ - * Correctly configured * :
+
+ - No files or directories without a owner exist on the local filesystem.
+ - No files or directories without a group exist on the local filesystem.
+
+✅ 7.1.12.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.13.sh
+
+- Audit Result:
+
+ - List of "18" SUID executable files:
+/usr/bin/mount
+/usr/bin/at
+/usr/bin/gpasswd
+/usr/bin/passwd
+/usr/bin/su
+/usr/bin/chsh
+/usr/bin/chfn
+/usr/bin/umount
+/usr/bin/newgrp
+/usr/bin/pkexec
+/usr/bin/ping6
+/usr/bin/ping
+/usr/bin/fusermount3
+/usr/bin/sudo
+/usr/libexec/polkit-agent-helper-1
+/usr/lib/openssh/ssh-keysign
+/usr/lib/snapd/snap-confine
+/usr/lib/dbus-1.0/dbus-daemon-launch-helper
+ - end of list -
+
+ - List of "11" SGID executable files:
+/usr/bin/at
+/usr/bin/wall
+/usr/bin/chage
+/usr/bin/expiry
+/usr/bin/ssh-agent
+/usr/bin/crontab
+/usr/lib/mc/cons.saver
+/usr/sbin/pam_extrausers_chkpwd
+/usr/sbin/postqueue
+/usr/sbin/unix_chkpwd
+/usr/sbin/postdrop
+ - end of list -
+
+- Review the preceding list(s) of SUID and/or SGID files to
+- ensure that no rogue programs have been introduced onto the system.
+
+
+❌ 7.1.13.sh failed with exit code 1
+--------------------------------------
+🔹 Executing file: 7.1.2.sh
+✅ 7.1.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.3.sh
+✅ 7.1.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.4.sh
+✅ 7.1.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.5.sh
+✅ 7.1.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.6.sh
+✅ 7.1.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.7.sh
+✅ 7.1.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.8.sh
+✅ 7.1.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.1.9.sh
+✅ 7.1.9.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.1.sh
+✅ 7.2.1.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.10.sh
+
+- Audit Result:
+ ** PASS **
+ - * Correctly configured * :
+ - No local interactive users home directories contain:
+ - ".forward" or ".rhost" files
+ - ".netrc" files with incorrect access configured
+ - ".bash_history" files with incorrect access configured
+ - "dot" files with incorrect access configured
+
+
+
+✅ 7.2.10.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.2.sh
+✅ 7.2.2.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.3.sh
+✅ 7.2.3.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.4.sh
+✅ 7.2.4.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.5.sh
+✅ 7.2.5.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.6.sh
+✅ 7.2.6.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.7.sh
+✅ 7.2.7.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.8.sh
+✅ 7.2.8.sh completed successfully
+--------------------------------------
+🔹 Executing file: 7.2.9.sh
+
+- Audit Result:
+ ** FAIL **
+ - * Reasons for audit failure * :
+
+ - User: "postgres" Home "/var/lib/postgresql" is mode: "0755" should be mode: "750" or more restrictive
+ - User: "_sfta" Home "/var/empty/sfta" is mode: "0755" should be mode: "750" or more restrictive
+ - User: "support" Home "/support" is mode: "0755" should be mode: "750" or more restrictive
+
+- * Correctly configured * :
+ - All local interactive users:
+ - home directories exist
+ - own their home directory
+✅ 7.2.9.sh completed successfully
+--------------------------------------
